@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **manoharv2512@gmail.com**
 
-- ⚡ Fun fact **I think i'm stingy.**
+- ⚡ Fun fact **I'm standup Comedian.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
