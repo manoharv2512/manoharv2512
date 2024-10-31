@@ -1,27 +1,66 @@
-<h1 align="center">Hi 👋, I'm Manohar Varma</h1>
-<h3 align="center">Dynamic Full Stack Web Developer skilled in JavaScript, MERN stack (MongoDB, Express.js, React.js, Node.js), and RESTful API design. Demonstrates strong problem-solving abilities and collaboration skills. Capable of leveraging Generative AI and quickly adapting to new technologies for innovative development solutions.</h3>
+# Hello, I'm Manohar Varna 👋
 
-- 🌱 I’m currently learning **FullStack Development & Prompt Engineering**
+---
 
-- 💻 Featured Projects:
-- 1) Era's of UI/UX - https://design-timeline.netlify.app/
-  2) Movie Ticket Booking System - https://popcorn-ticket007.netlify.app/
+## 🧑‍💼 About Me
 
-- 📝 I regularly solving problems on [LeetCode](LeetCode) || [HackerRank](HackerRank)
+I am a **Full-Stack Developer** with a foundation in **Bachelor's Engineering**. My journey from engineering to tech has provided me with a unique approach to problem-solving and an enthusiasm for building scalable, user-focused applications. I specialize in **end-to-end development**, from crafting engaging UIs to implementing robust backend systems, and I’m passionate about continuous learning and innovation.
 
-- 📫 How to reach me **varmamanohar1998@gmail.com**
+---
 
-- ⚡ Fun fact **I'm standup Comedian.**
+## 🔧 Technical Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/manoharv2512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/manoharv2512" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@manoharv2512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@manoharv2512" height="30" width="40" /></a>
-</p>
+- **Languages:** JavaScript (React, Node.js), Python, Java
+- **Frontend:** HTML, CSS, Chakra UI, TailwindCSS
+- **Backend:** Spring Boot, Express.js
+- **Database:** Firebase, MongoDB
+- **Tools & Platforms:** Git, Docker, Vite, Firebase
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manoharv2512&show_icons=true&locale=en&layout=compact" alt="manoharv2512" /></p>
+## 📂 Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manoharv2512&show_icons=true&locale=en" alt="manoharv2512" /></p>
+### **1. [Era's of UI / UX](https://github.com/sakshimadne/Design-Discus_013)**
+Designed and implemented a responsive landing page that works optimally across devices of various sizes.
+Managed version control and collaboration through Git, maintaining efficient workflow.
+Conducted research and documented UI/UX milestones to provide educational insights.
+
+### **2. [Movie Ticket Booking Platform](https://github.com/manoharv2512/Mars-Mission-Masters_007)**
+A **BookMyShow**-inspired ticket booking application built using **HTML, CSS, and JavaScript**. This project features:
+   - Detailed Movie Listings
+   - Ticket Booking Functionality
+   - Responsive UI and Seamless Navigation
+
+---
+
+## 🌱 Current Learning Focus
+
+- **React Router** for efficient navigation in dynamic applications.
+- **Firebase Authentication** and **Firestore** for secure and scalable app development.
+- **Advanced React** practices with Vite for optimized performance.
+
+---
+
+## 💼 Professional Highlights
+
+- Transitioned from a background in Mechanical Engineering, offering a blend of analytical skills and creative problem-solving.
+- Developed and managed multiple web applications with a focus on user experience and operational efficiency.
+- Experienced in collaborating with cross-functional teams, delivering solutions in fast-paced environments.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula)
+
+---
+
+## 📬 Connect with Me
+
+- **LinkedIn**: [linkedin.com/in/manoharv2512](https://www.linkedin.com/in/manoharv2512/)
+- **Email**: [varmamanohar1998@gmail.com](mailto:varmamanohar1998@gmail.com)
+
+---
+
+Thanks for stopping by! Let's connect and explore opportunities to create impactful software.
