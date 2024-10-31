@@ -1,4 +1,4 @@
-# Hello, I'm Manohar Varna 👋
+# Hello, I'm Manohar Varma 👋
 
 ---
 
